@@ -55,7 +55,7 @@ textarea {
 }
 .fa-trash-o, .fa-heart{
 	float: right;
-	margin-right: 10px;
+	margin-right: 20px;
 	cursor: pointer;
 }
 .fa-trash-o:hover{
